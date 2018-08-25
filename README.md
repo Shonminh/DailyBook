@@ -2,6 +2,6 @@
 
 - [mysql](/mysql)
 - [angular](/angular)
-- [blcokchain](/blcokchain)
+- [blockchain](/blockchain)
 - [go](/go)
 - [Elasticsearch](/Elasticsearch)
